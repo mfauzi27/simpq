@@ -1,0 +1,2 @@
+# simpq
+sistem manajemen lpq
